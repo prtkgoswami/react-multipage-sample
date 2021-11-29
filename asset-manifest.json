@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-multipage-sample/static/css/main.cacb85af.chunk.css",
+    "main.js": "/react-multipage-sample/static/js/main.bd050ee1.chunk.js",
+    "main.js.map": "/react-multipage-sample/static/js/main.bd050ee1.chunk.js.map",
+    "runtime-main.js": "/react-multipage-sample/static/js/runtime-main.8e79c053.js",
+    "runtime-main.js.map": "/react-multipage-sample/static/js/runtime-main.8e79c053.js.map",
+    "static/js/2.a6f7e999.chunk.js": "/react-multipage-sample/static/js/2.a6f7e999.chunk.js",
+    "static/js/2.a6f7e999.chunk.js.map": "/react-multipage-sample/static/js/2.a6f7e999.chunk.js.map",
+    "static/js/3.d2a90d91.chunk.js": "/react-multipage-sample/static/js/3.d2a90d91.chunk.js",
+    "static/js/3.d2a90d91.chunk.js.map": "/react-multipage-sample/static/js/3.d2a90d91.chunk.js.map",
+    "index.html": "/react-multipage-sample/index.html",
+    "static/css/main.cacb85af.chunk.css.map": "/react-multipage-sample/static/css/main.cacb85af.chunk.css.map",
+    "static/js/2.a6f7e999.chunk.js.LICENSE.txt": "/react-multipage-sample/static/js/2.a6f7e999.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e79c053.js",
+    "static/js/2.a6f7e999.chunk.js",
+    "static/css/main.cacb85af.chunk.css",
+    "static/js/main.bd050ee1.chunk.js"
+  ]
+}
